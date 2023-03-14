@@ -7,3 +7,4 @@ derived from exercises produced by Luís F. Simões for [VU Collective Intellige
 2013](https://github.com/lfsimoes/VU/tree/master/2013__Collective_Intelligence).
 Converted to latest Jupyter version and Python 3 and many other updates by
 Tobias Kuhn (2015-2021) and Ronald Siebes (2022).
+--
